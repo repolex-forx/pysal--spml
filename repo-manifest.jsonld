@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pysal/spml/commit/19b13365a98de97b39bed6419dc53551fd0bf985",
       "git:hexsha": "19b13365a98de97b39bed6419dc53551fd0bf985",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:43:13.257377+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pysal/spml/commit/2f5c5cb21c4ad689d259e19380c20e6a6d4bdd3c",
